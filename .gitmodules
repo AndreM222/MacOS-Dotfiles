@@ -1,0 +1,12 @@
+[submodule "fish"]
+	path = fish
+	url = git@github.com:AndreM222/fish.git
+[submodule "tmux"]
+	path = tmux
+	url = git@github.com:AndreM222/tmux.git
+[submodule "ghostty"]
+	path = ghostty
+	url = git@github.com:AndreM222/ghostty.git
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:AndreM222/nvim.git
