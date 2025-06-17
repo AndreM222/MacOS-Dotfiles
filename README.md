@@ -1,6 +1,6 @@
 # MacOS Dotfiles
 
-> [!INFO]
+> [!WARNING]
 > The fish-shell configuration has Japanese language set since I am studying the language
 > And Ghostty doesnt yet support localization. You can remove the line as marked if you want.
 > The Neovim setup I have is the only Neovim setup that supports translations. By default goes to
