@@ -113,8 +113,10 @@ curl -sL https://raw.githubusercontent.com/jorgebucaran/fisher/main/functions/fi
 📂~/.config/fish
 |__📄config.fish
 
-📂~/.config/Nvim
+📂 $HOME/AppData/Local/Nvim
 |__📂lua/andrem222
+|   |__📂 po
+|   |   |__📑 All Translations Files
 |   |__📂 pluginDev
 |   |   |__📑 All Personal Plugin Installation and Setup Files
 |   |__📂 plugins
@@ -123,6 +125,7 @@ curl -sL https://raw.githubusercontent.com/jorgebucaran/fisher/main/functions/fi
 |   |__📄config.lua
 |   |__📄debug.lua
 |   |__📄devconfig.lua
+|   |__📄langMSG.lua
 |   |__📄lazy.lua
 |   |__📄theme.lua
 |__📄init.lua
