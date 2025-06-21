@@ -6,6 +6,14 @@
 > The Neovim setup I have is the only Neovim setup that supports translations. By default goes to
 > English, but if a translation for your language is available, then it will translate it.
 
+<p align='center'>
+
+![Preview IMG 1](doc/Terminal-Preview_1.png)
+![Preview IMG 2](doc/Terminal-Preview_2.png)
+![Preview IMG 3](doc/Terminal-Preview_3.png)
+
+</p>
+
 ## Contents 📦
 
 - Git Configuration
