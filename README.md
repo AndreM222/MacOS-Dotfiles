@@ -26,6 +26,8 @@
 
 ## Navigation ✈️
 
+[Switch To Windows-Dotfiles <-](https://github.com/AndreM222/Windows-Dotfiles) (For Detailed Setup)
+
 - [Navigate To Ghostty Dotfiles <-](https://github.com/AndreM222/ghostty) (For Detailed Setup)
 
 - [Navigate To Neovim Dotfiles <-](https://github.com/AndreM222/nvim) (For Detailed Setup)
