@@ -13,3 +13,6 @@
 [submodule "lazygit"]
 	path = lazygit
 	url = git@github.com:AndreM222/lazygit.git
+[submodule "git"]
+	path = git
+	url = git@github.com:AndreM222/git.git
