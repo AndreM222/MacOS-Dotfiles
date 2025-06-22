@@ -115,6 +115,12 @@ curl -sL https://raw.githubusercontent.com/jorgebucaran/fisher/main/functions/fi
 📂~/.config/fish
 |__📄config.fish
 
+📂~/.config/git
+|__📄config
+
+📂~/.config/lazygit
+|__📄config.yml
+
 📂 $HOME/AppData/Local/Nvim
 |__📂lua/andrem222
 |   |__📂 po
