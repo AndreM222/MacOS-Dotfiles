@@ -10,3 +10,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:AndreM222/nvim.git
+[submodule "lazygit"]
+	path = lazygit
+	url = git@github.com:AndreM222/lazygit.git
